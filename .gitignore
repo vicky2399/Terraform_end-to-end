@@ -1,0 +1,12 @@
+# Local .terraform directory
+.terraform/
+
+# Local state files
+*.tfstate
+*.tfstate.backup
+
+# Variables file (Important: Indulo secrets unte push cheyyaku)
+# terraform.tfvars 
+
+# Crash logs
+crash.log
